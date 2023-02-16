@@ -2,13 +2,61 @@
    "files": [    
 
 {
-         "name": "TH-FREE-001",
+         "name": "TH-VIP-001",
          "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-001.ovpn"
+      },
+{
+         "name": "TH-VIP-002",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-002.ovpn"
+      },
+{
+         "name": "TH-VIP-003",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-003.ovpn"
+      },
+{
+         "name": "TH-VIP-004",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-004.ovpn"
+      },
+{
+         "name": "TH-VIP-005",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-005.ovpn"
+      },
+{
+         "name": "TH-VIP-006",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-006.ovpn"
+      },
+{
+         "name": "TH-VIP-007",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-007.ovpn"
+      },
+{
+         "name": "TH-VIP-008",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-008.ovpn"
+      },
+{
+         "name": "TH-VIP-009",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-009.ovpn"
+      },
+{
+         "name": "TH-VIP-010",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-010.ovpn"
+      },
+{
+         "name": "TH-VIP-011",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-011.ovpn"
+      },
+{
+         "name": "TH-VIP-012",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-012.ovpn"
+      },
+{
+         "name": "TH-VIP-013",
+         "url": "https://raw.githubusercontent.com/laydylay/jack/main/TH-VIP-013.ovpn"
       }
 ],
 "message":"JACKSONမှ နွေထွေးစွာကြိုဆိုပါ၏
 အသုံးပြုရနိုင်သော ဆင်းကဒ်များ
-TRUE&DTAC👉များဖြစ်ပါသည်
+TRUE & DTAC👉များဖြစ်ပါသည်
 👉DTAC NOPRO
 👉TRUE NOPRO
 👉အသုံးပြုနိုင်သော ဝန်ဆောင်မှု့
@@ -16,8 +64,8 @@ TRUE&DTAC👉များဖြစ်ပါသည်
 👉Facebook+Youtube
 👉Viber+TikTok
 👉Telegram+LINE
-👉ကြိုက်ရာသုံး အကန့်အသတ်မရှိ သုံးနိုင်ပါသည်\n\nAPKဗားရှင်း: 2
-\n\nConfig By:JACKSON ",
+👉ကြိုက်ရာသုံး အကန့်အသတ်မရှိ သုံးနိုင်ပါသည်\nAPKဗားရှင်း: 3
+\nConfig By:JACKSON ",
    "title":"ဖိုင်အသစ်အပ်ဒိတ်ပေးပါ" ,
-   "version": 2
+   "version": 3
 }
